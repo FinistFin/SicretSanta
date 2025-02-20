@@ -68,4 +68,4 @@ Secret Santa App - это Flutter-приложение, предназначен
 *   **crypto:** Пакет для хеширования паролей.
 
 ## Структура проекта
-
+* Изображение 1: ![Fl2](https://github.com/FinistFin/FlutterNew/blob/main/Fl1.png?raw=true)
