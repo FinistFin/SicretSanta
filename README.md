@@ -1,4 +1,4 @@
-# SicretSanta
+# SecretSanta
 
 ## Описание
 
